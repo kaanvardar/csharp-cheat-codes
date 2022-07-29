@@ -1,0 +1,15 @@
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/bin/Debug/net6.0/hellomars
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/bin/Debug/net6.0/hellomars.deps.json
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/bin/Debug/net6.0/hellomars.runtimeconfig.json
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/bin/Debug/net6.0/hellomars.dll
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/bin/Debug/net6.0/hellomars.pdb
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/obj/Debug/net6.0/hellomars.csproj.AssemblyReference.cache
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/obj/Debug/net6.0/hellomars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/obj/Debug/net6.0/hellomars.AssemblyInfoInputs.cache
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/obj/Debug/net6.0/hellomars.AssemblyInfo.cs
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/obj/Debug/net6.0/hellomars.csproj.CoreCompileInputs.cache
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/obj/Debug/net6.0/hellomars.dll
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/obj/Debug/net6.0/refint/hellomars.dll
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/obj/Debug/net6.0/hellomars.pdb
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/obj/Debug/net6.0/hellomars.genruntimeconfig.cache
+/Users/kaanvardar/Desktop/csharp/hellomars/hellomars/obj/Debug/net6.0/ref/hellomars.dll
